@@ -20,4 +20,4 @@ No se modificó ninguna constante de la sección 0 (semilla del split 42, 3 semi
 Dataset chico, una sola partición, 3 semillas, GPU no determinista (≈1.4 puntos entre corridas), atajos por resolución y color, posible fuga por pacientes o lesiones repetidas.
 
 ## Uso de IA
-Usé Claude (Anthropic) como asistente para entender el código del notebook, revisar la coherencia entre los resultados y los textos. Ejecuté el notebook completo en Google Colab con GPU, sin modificar las constantes. Verifiqué a mano los cálculos de parámetros y de campo receptivo contra la tabla.
+Usé Claude (Anthropic) para entender el código del notebook, para razonar los resultados y llegar a conclusiones, y como base para redactar algunos de los análisis, que luego reescribí con mis palabras y verifiqué contra los outputs de mi corrida. Ejecuté el notebook completo en Google Colab con GPU, sin modificar las constantes. Verifiqué a mano los cálculos de parámetros y de campo receptivo contra la tabla.
